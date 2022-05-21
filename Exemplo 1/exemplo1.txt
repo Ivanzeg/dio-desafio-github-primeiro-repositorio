@@ -1,0 +1,11 @@
+Dados para verificar
+
+-para adicionar novos arquivos pelo terminal git: 
+git add . 
+ou
+gitadd -A
+
+- para verificar se houve execução
+git status
+
+-
